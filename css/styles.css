@@ -1,0 +1,10 @@
+#profile {
+  border: 5px solid black;
+  margin: inherit;
+  float: left;
+  padding: 4px
+}
+
+/* #output {
+  display: hide;
+} */
